@@ -32,7 +32,7 @@ console.log(favCandy);
 //.pop will remove a value found at the end of the array
 favCandy.pop();
 console.log(favCandy);
-console.log("------------------")
+console.log("------------------");
 //.slice does not change the actual array but will only return the values up to the last number
 console.log(favCandy.slice(0,3));
 console.log(favCandy);
